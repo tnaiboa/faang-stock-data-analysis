@@ -11,15 +11,15 @@ The dataset includes historical stock prices and volumes for the following compa
 - Netflix (NFLX)
 - Google (GOOGL)
 
-## Visualizationss
+## Visualizations
 
 ### 1. FAANG Companies Closing Prices Over Time
 
-![Closing Prices Over Time](link_to_image)
+![Closing Prices Over Time](https://github.com/tnaiboa/faang-stock-data-analysis/raw/main/images/ClosingPrices.png)
 
 ### 2. Companies Daily Return Over Time
 
-![Daily Return Over Time](link_to_image)
+![Daily Return Over Time](https://github.com/tnaiboa/faang-stock-data-analysis/raw/main/images/DailyReturns.png)
 
 ### Dashboard
 
@@ -27,7 +27,7 @@ You can interact with the full dashboard on [Tableau Public](https://public.tabl
 
 ## Analysis Overview
 
-### Data Loading and Preparations
+### Data Loading and Preparation
 
 The data for each company is loaded from CSV files, combined into a single DataFrame, and prepared for analysis.
 
